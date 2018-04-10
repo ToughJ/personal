@@ -48,13 +48,13 @@
 
 ##### Coursera
 3. [离散数学](https://www.coursera.org/learn/discrete-mathematics-ch), 龙环 (上海交大计算机系)
-4. [Algorithms, Part I (java)](https://www.coursera.org/learn/algorithms-part1), Princeton University, Professor Robert Sedgewick (Dept. of Computer Science)
-5. [Algorithms, Part II (java)](https://www.coursera.org/learn/algorithms-part2/home/welcome), Princeton University, Professor Robert Sedgewick (Dept. of Computer Science)
+4. [Algorithms, Part I (java)](https://www.coursera.org/learn/algorithms-part1), Princeton University, Professor Robert Sedgewick (Dept. of Computer Science),Grade:96.6%
+5. [Algorithms, Part II (java)](https://www.coursera.org/learn/algorithms-part2/home/welcome), Princeton University, Professor Robert Sedgewick (Dept. of Computer Science),Grade:88.0%
 6. [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University, Tim Roughgarden (Professor of Computer Science and Management Science and Engineering)
-- [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
-- [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
-- [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
-- [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)
+- [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)，Grade:100.0%
+- [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures),Grade:96.0%
+- [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy),Grade:99.0%
+- [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete),Grade:93.9%
 
 ##### edX
 11. [English Grammar and Style](https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2017/course/)The University of Queensland, Roslyn Petelin
