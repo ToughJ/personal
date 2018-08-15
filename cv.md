@@ -5,7 +5,8 @@
 
 ## 教育背景
 
-- 2014.09-2018.07（预计） 浙江大学海洋学院船舶与海洋工程专业
+- 2014.09-2018.07 浙江大学海洋学院船舶与海洋工程专业
+- 2018.09-2023.06 浙江大学管理学院管理科学与工程专业
 
 
 ### 主要奖证：
@@ -46,32 +47,39 @@
 
 2. [Java Programmin Basics](https://cn.udacity.com/course/intro-to-java-programming--cs046), Cezanne Camacho, Asser Samak(udacity instructor)
 
+3. [Intro to Theoretical Computer Science](https://classroom.udacity.com/courses/cs313), Sebastian Wernicke(udacity instructor), Sean Bennett(udacity instructor), Sarah Norell(udacity instructor)
+
 ##### Coursera
-3. [离散数学](https://www.coursera.org/learn/discrete-mathematics-ch), 龙环 (上海交大计算机系)
-4. [Algorithms, Part I (java)](https://www.coursera.org/learn/algorithms-part1), Princeton University, Professor Robert Sedgewick (Dept. of Computer Science),Grade:96.6%
-5. [Algorithms, Part II (java)](https://www.coursera.org/learn/algorithms-part2/home/welcome), Princeton University, Professor Robert Sedgewick (Dept. of Computer Science),Grade:88.0%
-6. [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University, Tim Roughgarden (Professor of Computer Science and Management Science and Engineering)
+4. [离散数学](https://www.coursera.org/learn/discrete-mathematics-ch), 龙环 (上海交大计算机系)
+
+5. [Algorithms, Part I (java)](https://www.coursera.org/learn/algorithms-part1), Princeton University, Professor Robert Sedgewick (Dept. of Computer Science),Grade:96.6%
+
+6. [Algorithms, Part II (java)](https://www.coursera.org/learn/algorithms-part2/home/welcome), Princeton University, Professor Robert Sedgewick (Dept. of Computer Science),Grade:88.0%
+
+7. [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University, Tim Roughgarden (Professor of Computer Science and Management Science and Engineering)
 - [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)，Grade:100.0%
 - [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures),Grade:96.0%
 - [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy),Grade:99.0%
 - [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete),Grade:93.9%
 
 ##### edX
-11. [English Grammar and Style](https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2017/course/)The University of Queensland, Roslyn Petelin
-12. [Object Oriented Programming in Java](https://www.edx.org/course/object-oriented-programming-java-microsoft-dev277x), Microsoft Inc., Kasey Champion, Learning Team Instructor
-13. [Supply Chain Fundamental](https://courses.edx.org/courses/course-v1:MITx+CTL.SC1x+3T2017/course/), MIT, Dr. Chris Caplice, Professor Yossi Sheffi, Dr. Christopher Cassa, Dr. Eva Ponce  (MIT Center for Transportation & Logistics  score:92%)
-14. [Supply Chain Analytic](https://courses.edx.org/courses/course-v1:MITx+CTL.SC0x+3T2017/course/),  MIT,  (MIT Center for Transportation & Logistics)
-15. [Linear Algebra - Foundations to Frontiers (matlab)](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-05x-0), University of Texas at Austin, Dr. Robert van de Geijn (Professor of Computer Science  score:100%) 
+8. [English Grammar and Style](https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2017/course/)The University of Queensland, Roslyn Petelin
+9. [Object Oriented Programming in Java](https://www.edx.org/course/object-oriented-programming-java-microsoft-dev277x), Microsoft Inc., Kasey Champion, Learning Team Instructor
+10. [Supply Chain Fundamental](https://courses.edx.org/courses/course-v1:MITx+CTL.SC1x+3T2017/course/), MIT, Dr. Chris Caplice, Professor Yossi Sheffi, Dr. Christopher Cassa, Dr. Eva Ponce  (MIT Center for Transportation & Logistics  score:92%)
+11. [Supply Chain Analytic](https://courses.edx.org/courses/course-v1:MITx+CTL.SC0x+3T2017/course/),  MIT,  (MIT Center for Transportation & Logistics)
+12. [Supply Chain Design](https://courses.edx.org/courses/course-v1:MITx+CTL.SC2x+1T2018/course/),  MIT,  (MIT Center for Transportation & Logistics)
+13. [Linear Algebra - Foundations to Frontiers (matlab)](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-05x-0), University of Texas at Austin, Dr. Robert van de Geijn (Professor of Computer Science  score:100%) 
 ***
 
 (in progress)
-##### Udacity
-16. [Intro to Theoretical Computer Science](https://classroom.udacity.com/courses/cs313), Sebastian Wernicke(udacity instructor), Sean Bennett(udacity instructor), Sarah Norell(udacity instructor)
-
 ##### edX
-17. [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x), Red Hat Inc., Ricardo da Costa, Senior Instructor (Platform, Cloud, DevOps)
-18. [Academic and Business Writing](https://www.edx.org/course/academic-business-writing-uc-berkeleyx-colwri2-2x-0), University of California, Berkeley, Dr. Maggie Sokolik, Director, College Writing Programs
-19. [Supply Chain Design](https://courses.edx.org/courses/course-v1:MITx+CTL.SC2x+1T2018/course/),  MIT,  (MIT Center for Transportation & Logistics)
+14. [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x), Red Hat Inc., Ricardo da Costa, Senior Instructor (Platform, Cloud, DevOps)
+15. [Academic and Business Writing](https://www.edx.org/course/academic-business-writing-uc-berkeleyx-colwri2-2x-0), University of California, Berkeley, Dr. Maggie Sokolik, Director, College Writing Programs
+16. [Probability and Statistics in Data Science using Python](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE210x+1T2018/course/), Alon Orlitsky, Yoav Freund(US San Diego)
+17. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6), John Guttag, Eric Grimson, Ana Bell(MIT) 
+
+##### Coursera
+18. [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization), Professor Pascal Van Hentenryck, Dr.Carleton Coffrin (The University of Melbourne)
 
 ***
 ### 致谢
